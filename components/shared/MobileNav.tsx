@@ -16,7 +16,7 @@ export default function MobileNav() {
             className="cursor-pointer"
           />
         </SheetTrigger>
-        <SheetContent className="flex flex-col gap-6 md:hidden">
+        <SheetContent className="flex flex-col bg-white gap-6 md:hidden">
           <Image
             src="/assets/images/logo.svg"
             alt="Event App Logo"

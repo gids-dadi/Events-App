@@ -19,7 +19,7 @@ export default function Header() {
           />
         </Link>
         <SignedIn>
-          <nav>
+          <nav className="hidden md:flex">
             <NavItems />
           </nav>
         </SignedIn>
