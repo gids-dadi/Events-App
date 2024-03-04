@@ -16,7 +16,7 @@ export default function Home() {
               companies with our global community.
             </p>
             <Button size="lg" asChild className="button w-full">
-              <Link href="#events">Explore Now</Link>
+              <Link href="#">Explore Now</Link>
             </Button>
           </div>
           <Image
